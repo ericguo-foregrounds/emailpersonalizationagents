@@ -8,36 +8,27 @@
 
 ### Example Result:
 
-Hi John! 👋
-
-Just wanted to touch base and remind you about our Skool community, where you can join us for weekly coaching calls every Tuesday at 6 PM Eastern time. It's completely free, and we're on the verge of hitting the 500 user milestone!
-
-Given your extensive 10+ years of backend development experience, we'd absolutely love to have you as part of our growing community! 💪
-
-In the community, you'll find a supportive group of people ready to help with any questions or projects you might have. Plus, don't forget to explore other videos on my channel, especially if you're interested in AI-related content.
-
-Can't wait to see you there!
-
-Best,
-Brandon Hancock
-
-## ChatGPT 4 Turbo
-
-- Average Speed: 20 Seconds
-- Average Cost: $0.08
-- Crew usage {'total_tokens': 2193, 'prompt_tokens': 1742, 'completion_tokens': 451, 'successful_requests': 2}
-
-### Example Result:
-
 Hey John!
 
-Hope you're smashing it since we last chatted about your cool backend dev projects! Catching up with you is always a highlight, and chatting about the nitty-gritty of your work is super inspiring.
+Excited to have you leading the charge in the AI-driven future of work with us at Foregrounds! You're invited to join our exclusive global community of trailblazers who are reshaping their industries through AI.
 
-Just a friendly nudge about our awesome Skool community! We've got these weekly coaching calls every Tuesday at 6 PM Eastern time. It's a goldmine of insights and it's totally on the house! We're on the verge of hitting 500 members and, let me tell you, your genius in software engineering would light the place up. We'd be over the moon to count you in!
+Foregrounds Membership Perks:
+- Dive into executive-focused primers on essential AI topics.
+- Access our comprehensive framework library and detailed tool reviews.
+- Leverage case studies and quick-win implementation guides for immediate impact.
 
-Got any burning questions or hitting a snag with your projects? This community is your go-to spot for brainstorming with fellow pros and finding that Aha! moment.
+Global Leadership Network:
+- Connect with top-tier industry leaders from around the world.
+- Engage in our private Slack community and attend exclusive speaker series.
+- Receive invitations to high-profile AI summits.
 
-And, if you're all about AI and tech trends, make sure you're not missing out on the extra goodies on my channel. Smash that like and subscribe button to keep the latest and greatest updates at your fingertips. Can't wait to see you in our community and hear more about the magic you're creating!
+Special Perks:
+- Enjoy software discounts from top AI providers.
+- Gain access to vetted AI strategists and implementation specialists.
+- Enroll in our Q1 2025 courses: AI for Marketers or AI for Finance.
 
-Catch you later,
-Brandon Hancock
+With your impressive backend development background, we can't wait to see you grow with our community of software engineers!
+
+Looking forward to hearing from you!
+Warm regards,
+The Foregrounds Team
